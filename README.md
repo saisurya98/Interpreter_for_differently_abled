@@ -1,12 +1,12 @@
-# 🤟 Interpreter for the Differently Abled
+# Interpreter for the Differently Abled
 
 > A low-cost, two-way communication interpreter bridging the gap between differently-abled individuals and others using **American Sign Language (ASL) Recognition** and **Haptic Feedback** — built on Raspberry Pi.
 
-📄 **Published Research Paper** — Amrita School of Engineering, Bengaluru, Amrita Vishwa Vidyapeetham
+ **Published Research Paper** — Amrita School of Engineering, Bengaluru, Amrita Vishwa Vidyapeetham
 
 ---
 
-## 🧠 Overview
+##  Overview
 
 This project proposes a two-module interpreter system that enables seamless two-way communication between differently-abled people (blind, deaf, dumb) and others — regardless of the type of sensory disability.
 
@@ -17,7 +17,7 @@ This project proposes a two-module interpreter system that enables seamless two-
 
 ---
 
-## ⚙️ Tech Stack
+## Tech Stack
 
 | Category | Tools |
 |----------|-------|
@@ -44,7 +44,7 @@ This project proposes a two-module interpreter system that enables seamless two-
 
 ---
 
-## 📦 Module 1 — Speech to Haptic Feedback
+##  Module 1 — Speech to Haptic Feedback
 
 Converts speech from a non-disabled person into haptic vibrations that a differently-abled person can feel using gloves embedded with coin vibration motors.
 
@@ -55,7 +55,7 @@ Converts speech from a non-disabled person into haptic vibrations that a differe
 
 ---
 
-## 🤖 Module 2 — ASL Gesture Recognition (CNN)
+##  Module 2 — ASL Gesture Recognition (CNN)
 
 Recognizes American Sign Language hand gestures in real-time using a camera and a trained CNN model.
 
@@ -102,9 +102,9 @@ python module2.py
 
 ---
 
-## 👥 Authors
+## Authors
 
-- **Gorrepati Sai Surya** — suryachowdari98@gmail.com
+- **Gorrepati Sai Surya** 
 - Priya Prajapati
 - M. Nithya
 
@@ -113,7 +113,7 @@ Amrita School of Engineering, Bengaluru, Amrita Vishwa Vidyapeetham, India.
 
 ---
 
-## 📚 Citation
+## Citation
 
 If you use this work, please cite:
 ```
@@ -124,6 +124,6 @@ Amrita School of Engineering, Bengaluru, Amrita Vishwa Vidyapeetham, India.
 
 ---
 
-## 📝 License
+## License
 
 This project is for academic and research purposes.
