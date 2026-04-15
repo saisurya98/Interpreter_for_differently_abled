@@ -2,7 +2,9 @@
 
 > A low-cost, two-way communication interpreter bridging the gap between differently-abled individuals and others using **American Sign Language (ASL) Recognition** and **Haptic Feedback** — built on Raspberry Pi.
 
- **Published Research Paper** — Amrita School of Engineering, Bengaluru, Amrita Vishwa Vidyapeetham
+ **Published Research Paper** — https://ieeexplore.ieee.org/document/9214398
+ 
+ Amrita School of Engineering, Bengaluru, Amrita Vishwa Vidyapeetham
 
 ---
 
